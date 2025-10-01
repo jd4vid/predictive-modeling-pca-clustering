@@ -8,7 +8,7 @@ The goal is to analyze physical characteristics of penguins, reduce dimensionali
 
 ## Project Structure
 - `trabajo_final_Clustering_JesusNavarro.ipynb` → Jupyter notebook with full implementation.  
-- `trabajo_final_Mineria_Clustering_JesusNavarro.docx` → Original project report (in Spanish).  
+- `trabajo_final_Mineria_Clustering_JesusNavarro.pdf` → Original project report (in Spanish).  
 - `README.md` → Project overview (this file).  
 - `requirements.txt` → Python dependencies.  
 
