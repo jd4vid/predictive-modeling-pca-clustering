@@ -41,5 +41,5 @@ The goal is to analyze physical characteristics of penguins, reduce dimensionali
 ## Installation
 ```bash
 git clone https://github.com/jd4vid/predictive-modeling-pca-clustering.git
-cd penguins-clustering
+cd predictive-modeling-pca-clustering
 pip install -r requirements.txt
